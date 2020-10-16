@@ -9,7 +9,6 @@ D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjen
 D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\bin\Debug\netcoreapp3.1\Devopsjenkinsproject.pdb
 D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\bin\Debug\netcoreapp3.1\Devopsjenkinsproject.Views.dll
 D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\bin\Debug\netcoreapp3.1\Devopsjenkinsproject.Views.pdb
-D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\obj\Debug\netcoreapp3.1\Devopsjenkinsproject.csprojAssemblyReference.cache
 D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\obj\Debug\netcoreapp3.1\Devopsjenkinsproject.AssemblyInfoInputs.cache
 D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\obj\Debug\netcoreapp3.1\Devopsjenkinsproject.AssemblyInfo.cs
 D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\obj\Debug\netcoreapp3.1\Devopsjenkinsproject.csproj.CoreCompileInputs.cache
