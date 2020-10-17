@@ -34,4 +34,3 @@ D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjen
 D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\obj\Debug\netcoreapp3.1\Devopsjenkinsproject.pdb
 D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\obj\Debug\netcoreapp3.1\Devopsjenkinsproject.genruntimeconfig.cache
 D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\obj\Debug\netcoreapp3.1\Devopsjenkinsproject.csproj.CopyComplete
-D:\Abhijeet\Devops Tutorials\Devopsjenkinsproject\Devopsjenkinsproject\Devopsjenkinsproject\obj\Debug\netcoreapp3.1\Devopsjenkinsproject.csprojAssemblyReference.cache
